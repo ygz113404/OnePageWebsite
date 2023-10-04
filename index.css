@@ -1,0 +1,65 @@
+@import url(//fonts.googleapis.com/css?family=Montserrat:300,400,500);
+.nav{
+    background-color: black;
+}
+.navtext{
+    color:white  !important;
+    font-size: 20px !important;
+}
+.navLogo{
+    color:white  !important;
+    font-size: 35px !important;
+}
+.divCenter{
+    background: radial-gradient(circle at -8.9% 51.2%, rgb(255, 124, 0) 0%, rgb(255, 72, 0) 15.9%, rgb(255, 127, 77) 15.9%, rgb(225, 7, 7) 24.4%, rgb(19, 30, 37) 24.5%, rgb(19, 30, 37) 66%); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Ekran yüksekliği kadar ayarlanır */
+}
+.landingText{
+    color: white;
+}
+.aboutPage{
+    
+    background: radial-gradient(circle at 108.9% 51.2%, rgb(255, 124, 0) 0%, rgb(255, 72, 0) 15.9%, rgb(255, 127, 77) 15.9%, rgb(225, 7, 7) 24.4%, rgb(19, 30, 37) 24.5%, rgb(19, 30, 37) 66%);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Ekran yüksekliği kadar ayarlanır */
+}
+.galleryPage{
+    background-color: rgb(19, 30, 37);
+
+    
+}
+.contactPage{
+    background-color: rgb(19, 30, 37);
+}
+.servicePage{
+    background-color: rgb(19, 30, 37);
+
+}
+.service-7 {
+  font-family: "Montserrat", sans-serif;
+	color: #8d97ad;
+  font-weight: 300;
+}
+
+.service-7 h1, .service-7 h2, .service-7 h3, .service-7 h4, .service-7 h5, .service-7 h6 {
+  color: #3e4555;
+}
+
+
+
+.service-7 a {
+	text-decoration: none;
+}
+
+.service-7 .subtitle {
+    color: #8d97ad;
+    line-height: 24px;
+}
+
+
